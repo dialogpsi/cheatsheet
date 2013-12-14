@@ -2,9 +2,10 @@ Cheatsheet
 ==========
 
 All Ideamart Pro Details Here
+----
 
+######Below are endpoints
 
-####Below are endpoint details
 ----
 ###SMS
 
