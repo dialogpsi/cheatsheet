@@ -4,11 +4,12 @@ Cheatsheet
 All Ideamart Pro Details Here
 
 
-Below are endpoint details
+####Below are endpoint details
 ----
 ###SMS
 
 HTTPS - [https://api.dialog.lk/sms/send](https://api.dialog.lk/sms/send)
+
 HTTP  - [http://api.dialog.lk:8080/sms/send](http://api.dialog.lk:8080/sms/send)
 
 ----
