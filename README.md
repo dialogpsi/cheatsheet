@@ -39,6 +39,6 @@ HTTP - [http://api.dialog.lk:8080/caas/direct/debit](http://api.dialog.lk:8080/c
 -----
 ###Subscription API
 
-HTTPS - [https://api.dialog.lk/ subscription/send](https://api.dialog.lk/ subscription/send)
+HTTPS - [https://api.dialog.lk/subscription/send](https://api.dialog.lk/subscription/send)
 
-HTTP - [http://api.dialog.lk:8080/ subscription/send ](http://api.dialog.lk:8080/ subscription/send )
+HTTP - [http://api.dialog.lk:8080/subscription/send ](http://api.dialog.lk:8080/subscription/send )
