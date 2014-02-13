@@ -24,6 +24,7 @@ HTTP  - [http://localhost:7000/sms/send](http://localhost:7000/sms/send)
 
 ###USSD
 
+
 HTTPS - [https://api.dialog.lk/sms/send](https://api.dialog.lk/sms/send)
 
 HTTP - [http://api.dialog.lk:8080/sms/send](http://api.dialog.lk:8080/sms/send)
@@ -44,6 +45,7 @@ HTTP - [http://api.dialog.lk:8080/caas/balance/query](http://api.dialog.lk:8080/
 #### Debit Check
 
 Production
+
 HTTPS - [https://api.dialog.lk/caas/direct/debit](https://api.dialog.lk/caas/direct/debit)
 
 HTTP - [http://api.dialog.lk:8080/caas/direct/debit](http://api.dialog.lk:8080/caas/direct/debit)
@@ -51,11 +53,12 @@ HTTP - [http://api.dialog.lk:8080/caas/direct/debit](http://api.dialog.lk:8080/c
 
 Simulator
 
-
 HTTP - [http://127.0.0.1:7000/caas/direct/debit](http://127.0.0.1:7000/caas/direct/debit)
 
 -----
 ###Subscription API
+
+Production
 
 HTTPS - [https://api.dialog.lk/subscription/send](https://api.dialog.lk/subscription/send)
 
@@ -64,6 +67,8 @@ HTTP - [http://api.dialog.lk:8080/subscription/send ](http://api.dialog.lk:8080/
 
 ----
 #### Location Based Services (LBS)
+
+Production
 
 HTTPS - [https://api.dialog.lk/lbs/locate](https://api.dialog.lk/lbs/locate)
 
