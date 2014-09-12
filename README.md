@@ -50,6 +50,14 @@ HTTPS - [https://api.dialog.lk/caas/balance/query](https://api.dialog.lk/caas/ba
 HTTP - [http://api.dialog.lk:8080/caas/balance/query](http://api.dialog.lk:8080/caas/balance/query)
 
 
+Simulator
+
+HTTP - [http://localhost:7000/caas/balance/query](http://localhost:7000/caas/balance/query)
+
+
+HTTPS - [https://localhost:7447/caas/balance/query](https://localhost:7447/caas/balance/query)
+----
+
 #### Debit Check
 
 Production
