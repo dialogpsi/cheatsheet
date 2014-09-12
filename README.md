@@ -30,6 +30,13 @@ HTTPS - [https://api.dialog.lk/sms/send](https://api.dialog.lk/sms/send)
 
 HTTP - [http://api.dialog.lk:8080/sms/send](http://api.dialog.lk:8080/sms/send)
 
+
+Simulator
+
+HTTP - [http://localhost:7000/ussd/send/](http://localhost:7000/ussd/send/)
+
+HTTPS - [https://localhost:7447/ussd/send/](https://localhost:7447/ussd/send/)
+
 ----
 
 ###Charging As A Service  (CAAS)
