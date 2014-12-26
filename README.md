@@ -6,6 +6,33 @@ Cheatsheet
 
 ######Below are endpoints
 
+
+|      SMS     | Url                                          | Local / Live  |
+|:------------:|----------------------------------------------|---------------|
+| SMS          | https://api.dialog.lk/sms/send               | Live - HTTPS  |
+| SMS          | http://api.dialog.lk:8080/sms/send           | Live - HTTP   |
+| SMS          | [http://localhost:7000/sms/send](http://localhost:7000/sms/send)              | Local - HTTPS |
+| SMS          | [https://localhost:7447/sms/send](http://localhost:7447/sms/send)              | Local - HTTP  |
+| USSD         | https://api.dialog.lk/sms/send               | Live - HTTPS  |
+| USSD         | http://api.dialog.lk:8080/sms/send           | Live - HTTP   |
+| USSD         | [http://localhost:7000/ussd/send](http://localhost:7000/ussd/send)              | Local - HTTP  |
+| USSD         | [https://localhost:7447/ussd/send](https://localhost:7447/ussd/send)           | Local - HTTPS |
+| LBS          | https://api.dialog.lk/lbs/locate             | Live - HTTPS  |
+| LBS          | http://api.dialog.lk:8080/lbs/locate         | Live - HTTP   |
+| LBS          | [http://localhost:7000/lbs/locate](http://localhost:7000/lbs/locate)             | Local - HTTP  |
+| LBS          | [https://localhost:7447/lbs/locate](https://localhost:7447/lbs/locate)            | Local - HTTPS |
+| CAAS - Query | https://api.dialog.lk/caas/balance/query     | Live - HTTPS  |
+| CAAS - Query | http://api.dialog.lk:8080/caas/balance/query | Live - HTTP   |
+| CAAS - Query | [http://localhost:7000/caas/balance/query](http://localhost:7000/caas/balance/query)     | Local - HTTP  |
+| CAAS - Query | [https://localhost:7447/caas/balance/query](https://localhost:7447/caas/balance/query)   | Local - HTTPS |
+| CAAS - Debit | https://api.dialog.lk/caas/direct/debit      | Live - HTTPS  |
+| CAAS - Debit | http://api.dialog.lk:8080/caas/direct/debit  | Live - HTTP   |
+| CAAS - Debit | [http://localhost:7000/caas/direct/debit](http://localhost:7000/caas/direct/debit)      | Local - HTTP  |
+| CAAS - Debit | [https://localhost:7447/caas/direct/debit](https://localhost:7447/caas/direct/debit)     | Local - HTTPS |
+| Subscription | https://api.dialog.lk/subscription/send      | Live - HTTPS  |
+| Subscription | http://api.dialog.lk:8080/subscription/send  | Live - HTTP   |
+
+
 ----
 ###SMS
 
