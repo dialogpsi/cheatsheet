@@ -26,9 +26,9 @@ HTTP  - [http://localhost:7000/sms/send](http://localhost:7000/sms/send)
 
 Production
 
-HTTPS - [https://api.dialog.lk/sms/send](https://api.dialog.lk/sms/send)
+HTTPS - [https://api.dialog.lk/sms/send](https://api.dialog.lk/ussd/send)
 
-HTTP - [http://api.dialog.lk:8080/sms/send](http://api.dialog.lk:8080/sms/send)
+HTTP - [http://api.dialog.lk:8080/sms/send](http://api.dialog.lk:8080/ussd/send)
 
 
 Simulator
