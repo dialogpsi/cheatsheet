@@ -29,8 +29,18 @@ Cheatsheet
 | CAAS - Debit | http://api.dialog.lk:8080/caas/direct/debit  | Live - HTTP   |
 | CAAS - Debit | [http://localhost:7000/caas/direct/debit](http://localhost:7000/caas/direct/debit)      | Local - HTTP  |
 | CAAS - Debit | [https://localhost:7447/caas/direct/debit](https://localhost:7447/caas/direct/debit)     | Local - HTTPS |
-| Subscription | https://api.dialog.lk/subscription/send      | Live - HTTPS  |
-| Subscription | http://api.dialog.lk:8080/subscription/send  | Live - HTTP   |
+| Subscription - Reg/UnReg | https://api.dialog.lk/subscription/send      | Live - HTTPS  |
+| Subscription - Reg/UnReg | http://api.dialog.lk:8080/subscription/send  | Live - HTTP   |
+| Subscription - Reg/UnReg | https://localhost:7447/subscription/send      | Live - HTTPS  |
+| Subscription - Reg/UnReg | http://localhost:7000/subscription/send  | Live - HTTP   |
+| Subscription - Status | https://api.dialog.lk/subscription/getStatus      | Live - HTTPS  |
+| Subscription - Status | http://api.dialog.lk:8080/subscription/getStatus  | Live - HTTP   |
+| Subscription - Status | https://localhost:7447/subscription/getStatus      | Live - HTTPS  |
+| Subscription - Status | http://localhost:7000/subscription/getStatus  | Live - HTTP   |
+| Subscription - Base | https://api.dialog.lk/subscription/query-base      | Live - HTTPS  |
+| Subscription - Base | http://api.dialog.lk:8080/subscription/query-base  | Live - HTTP   |
+| Subscription - Base | https://localhost:7447/subscription/query-base      | Live - HTTPS  |
+| Subscription - Base | http://localhost:7000/subscription/query-base  | Live - HTTP   |
 
 
 ----
