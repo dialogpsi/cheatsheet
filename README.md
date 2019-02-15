@@ -4,7 +4,7 @@ Cheatsheet
 All Ideamart Pro Details Here
 ----
 
-####End Points: Active Production 
+#### End Points: Active Production 
 
 
 |      SMS     | Url                                          | Local / Live  |
@@ -19,7 +19,7 @@ All Ideamart Pro Details Here
 | CAAS - Debit | https://api.ideamart.io/caas/direct/debit      | Live - HTTPS  |
 
 
-####End Points: Simulator
+#### End Points: Simulator
 
 |      SMS     | Url                                          | Local / Live  |
 |:------------:|----------------------------------------------|---------------|
@@ -47,7 +47,7 @@ All Ideamart Pro Details Here
 | Subscription - Base | https://localhost:7447/subscription/query-base      | Live - HTTPS  |
 | Subscription - Base | http://localhost:7000/subscription/query-base  | Live - HTTP   |
 ----
-###SMS
+### SMS
 
 Production
 
@@ -61,7 +61,7 @@ Simulator
 
 ----
 
-###USSD
+### USSD
 
 Production
 
@@ -76,7 +76,7 @@ Simulator
 - HTTPS - [https://localhost:7447/ussd/send/](https://localhost:7447/ussd/send/)
 
 ----
-###Charging As A Service  (CAAS)
+### Charging As A Service  (CAAS)
 
 #### Query
 
@@ -108,7 +108,7 @@ Simulator
 - HTTP - [http://127.0.0.1:7000/caas/direct/debit](http://127.0.0.1:7000/caas/direct/debit)
 
 -----
-###Subscription API
+### Subscription API
 Production
 
 HTTPS - [https://api.ideamart.io/subscription/send](https://api.ideamart.io/subscription/send)
@@ -116,7 +116,7 @@ HTTPS - [https://api.ideamart.io/subscription/send](https://api.ideamart.io/subs
 HTTP - [http://api.dialog.lk:8080/subscription/send ](http://api.dialog.lk:8080/subscription/send)
 
 ----
-###Location Based Services (LBS)
+### Location Based Services (LBS)
 Production
 
 - HTTPS - [https://api.ideamart.io/lbs/locate](https://api.ideamart.io/lbs/locate)
